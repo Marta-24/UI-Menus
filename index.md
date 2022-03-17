@@ -11,7 +11,7 @@ Without noticing, the players spend a lot of time in menus. Without realizing it
 Is the first thing a player sees when opening a game. Because of how often we see them, main menus have the tendency to get burned into our brains without us realizing it. The text and sound become too familiar.
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/SampleText.png"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/StreetFightMainMenu.webp"> 
 </p>
 
 For example, it's easy to know which games are this, or at least a few of them, 
