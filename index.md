@@ -319,4 +319,15 @@ Compare the results
 
 Only change 1 variable at a time. This is to know exactly what improves the user experience. But because we may not have a lot of time to only do 1 change at a time, what you can do is change various variables on the same item, for example, change the color, size, sapes, label, etc. of the same button.
 
+BIBLIOGRAPHY
+How to make your game ui shine & increase conversions
+VIDEO: Diseñar menús de juegos: Errores y consejos | Interfaces
+VIDEO: So You Wanna Make Games?? | Episode 9: User Interface Design
+VIDEO: Diseño UX del inventario - Como Zelda, Resident Evil y Doom hacen grandes menus (UX)
+VIDEO: Pixel Art Class - Intro to Game UI
+
+
+
+OTHER USEFUL LINKS
+Game Interfaces
 
