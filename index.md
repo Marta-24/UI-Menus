@@ -6,3 +6,6 @@ For example, the player gets a character, they want to choose an ability, just t
 It's a few selections, but a lot of variables in only 1 character.
 
 Without noticing, the players spend a lot of time in menus. Without realizing it, players’ first impressions about the game can depend a lot on how visually pleasant the menus are.
+
+#Main Menu
+Is the first thing a player sees when opening a game. Because of how often we see them, main menus have the tendency to get burned into our brains without us realizing it. The text and sound become too familiar.
