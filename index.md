@@ -11,3 +11,34 @@ Without noticing, the players spend a lot of time in menus. Without realizing it
 Is the first thing a player sees when opening a game. Because of how often we see them, main menus have the tendency to get burned into our brains without us realizing it. The text and sound become too familiar.
 
 ![](https://github.com/Marta-24/UI-Menus/blob/main/Images/SampleText.png)
+
+For example, it's easy to know which games are this, or at least a few of them, 
+or there are some soundtracks or sounds that you associate immediately with the game, like the Mario coin sound or the Wii music.
+
+Options of the menu:
+Continue
+New Game
+Settings / Options
+Credits
+Quit
+
+You can make main menus as dynamic as you want. For example: COD black ops has a main menu that is part of the lore. 
+
+Or Detroit Become Human, where Chloe gets more agitated as the game moves forward. Every time you go to the main menu, there is a different interaction with Chloe, and that makes it very interesting, to want to see what she will say next, or see how her feelings toward you change throughout the game. And how at the end of the game she asks to be set free, and if you accept, she doesn’t appear anymore even if you start a new game.
+
+![]()
+
+#Character Menu
+- Character menu
+- Options of the menu:
+- Character Selection
+- Abilities
+- Team Members
+- Status / Level
+- Weapons
+
+It's hard to make a character menu, since there is not a general template to start from. Each game has a different character menu. 
+
+For example, Street Fight 5 only uses less than half of the screen for the menu, the rest is the animation, so the player doesn’t have to drag the mouse through all the screen to see each character.
+
+![](https://github.com/Marta-24/UI-Menus/blob/main/Images/StreetFightMainMenu.webp)
