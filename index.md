@@ -9,3 +9,5 @@ Without noticing, the players spend a lot of time in menus. Without realizing it
 
 #Main Menu
 Is the first thing a player sees when opening a game. Because of how often we see them, main menus have the tendency to get burned into our brains without us realizing it. The text and sound become too familiar.
+
+![](https://github.com/Marta-24/UI-Menus/blob/main/Images/SampleText.png)
