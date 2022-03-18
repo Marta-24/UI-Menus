@@ -46,20 +46,20 @@ It's hard to make a character menu, since there is not a general template to sta
 For example, Street Fight 5 only uses less than half of the screen for the menu, the rest is the animation, so the player doesn’t have to drag the mouse through all the screen to see each character.
 
 <p align="center">
-  <img src="street fight 5"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/StreetFightMainMenu.webp"> 
 </p>
 
 Valorant also uses this kind of interface, where most of the screen is for the animation. In this case, also using the extra space to show the different abilities of the characters.
 
 <p align="center">
-  <img src="valorant"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/ValorantCharacterMenu.jpg"> 
 </p>
 
 Smash Bros, on the other hand, utilizes most of the screen for the character. 
 This is a good interface for those games with a lot of characters. But the players takes a lot of time just looking through each character (if they don’t know which one to play).
 
 <p align="center">
-  <img src="smash bros"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/SmashBrosCharacterSelection.webp"> 
 </p>
 
 # Pause Menu
@@ -74,7 +74,7 @@ This is a good interface for those games with a lot of characters. But the playe
 Some games have really boring menus, others are too much, like Fable 3, where the pause menu is a room (that you have to wait for it to load) with smaller rooms (that you also have to have for them to load) just to do anything. 
 
 <p align="center">
-  <img src="fable 3"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Fable3Pause.webp"> 
 </p>
 
 # Settings
