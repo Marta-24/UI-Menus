@@ -1,6 +1,8 @@
-# UI Menus
+## UI Menus
 This is the theory of behind the UI Menus in RPGs.
 
-Github Page
+By Marta Llurba
+
+# Github Page
 https://marta-24.github.io/UI-Menus/
 
