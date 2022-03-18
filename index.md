@@ -10,9 +10,7 @@ Without noticing, the players spend a lot of time in menus. Without realizing it
 #Main Menu
 Is the first thing a player sees when opening a game. Because of how often we see them, main menus have the tendency to get burned into our brains without us realizing it. The text and sound become too familiar.
 
-<p align="center">
-  <img src="sample text"> 
-</p>
+![Sample text]()
 
 For example, it's easy to know which games are this, or at least a few of them, 
 or there are some soundtracks or sounds that you associate immediately with the game, like the Mario coin sound or the Wii music.
@@ -28,9 +26,7 @@ You can make main menus as dynamic as you want. For example: COD black ops has a
 
 Or Detroit Become Human, where Chloe gets more agitated as the game moves forward. Every time you go to the main menu, there is a different interaction with Chloe, and that makes it very interesting, to want to see what she will say next, or see how her feelings toward you change throughout the game. And how at the end of the game she asks to be set free, and if you accept, she doesn’t appear anymore even if you start a new game.
 
-<p align="center">
-  <img src="detroit become human"> 
-</p>
+![Detroid Become Human]()
 
 #Character Menu
 - Character menu
