@@ -101,20 +101,20 @@ It gives the player many options, very fast.
 Example: the backpack system in The Last of Us. It’s easy to use and gives you plenty of options, but also gives a layer of strategy, where the player has to plan which weapons will they use and which spot is the best for easier access
 
 <p align="center">
-  <img src="resident evil"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/LastOfUsQuickMenu.webp"> 
 </p>
 
 A bad example is Zelda: Breath of the Wild.
 It takes too much time to get the items you want. Is not too bad, but for a quick menu, it doesn’t really work.
 
 <p align="center">
-  <img src="zelda breath of the wild"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/ZeldaQuickMenu.jpeg"> 
 </p>
 
 Another example is Zelda: Ocarina of Time, with the Iron Boots. During a part of the game, the player needed to navigate a dungeon with flooded corridors, and to sink to the bottom they needed to have equipped the Iron Boots. The problem came when equipping this item, since it was categorized as equipment, instead of an item like the bow, for example, so the player could not create a quick access to the boots, so the player would need to open the menu too equip the boots, and repeat the steps to take them off every single time, which made it really tedious to go through the dungeon.
 
 <p align="center">
-  <img src="zelda pcarina of time"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/ZeldaInventory.jpg"> 
 </p>
 
 # Inventory
@@ -202,11 +202,11 @@ If everything looks and works in a similar manner, it will be easier for the pla
 You will be able to reuse designs and it will save time.
 
 <p align="center">
-  <img src="hades"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/HadesControls.jpg"> 
 </p>
 
 <p align="center">
-  <img src="hades"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/HadesSettings.jpeg"> 
 </p>
 
 
@@ -216,7 +216,7 @@ All buttons should share similar characteristics, but it is important to make th
 This doesn’t mean you can change the design of the button. You should try to stay as close as the general design for all the UI.
 
 <p align="center">
-  <img src="hierrachy"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Hierarchy.png"> 
 </p>
 
 4 tools to create visual hierarchy
@@ -264,19 +264,19 @@ Improve User Experience
 Let the player know what is happening.
 
 <p align="center">
-  <img src="loading"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Loading1.png"> 
 </p>
 <p align="center">
-  <img src="loading"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/loading2.png"> 
 </p>
 
 This is an example of a bad experience, since the player doesn’t know if the game is paused due to a bug (the saving label doesn’t have an animation) or connection or if it's still saving progress.
 <p align="center">
-  <img src="loading"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Loading3.png"> 
 </p>
 In this example you can see that there is the wheel (which is animated) and the player can see that it is still saving.
 <p align="center">
-  <img src="loading"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Loafing4.png"> 
 </p>
 
 You can do the same with a loading bar.
@@ -288,7 +288,7 @@ Also, making what is selected, more brighter, or in brighter colors.
  HOVER
 
 <p align="center">
-  <img src="selecting"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Selection.png"> 
 </p>
 
 Persona 5 menu is a great example of a good menu UX. It has big and easy to read text, and the color scheme is nice, but the best part is the transitions animations, which flow really nicely.
@@ -297,10 +297,10 @@ It's hard to navigate through, with all the different submenus, but just with th
 
 The UI of this game is not good, but the UX is great.
 <p align="center">
-  <img src="persona 5"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Persona5Menu.gif"> 
 </p>
 <p align="center">
-  <img src="persona 5"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Persona5Animation.gif"> 
 </p>
 Use objective data
 It's easy to make a really good looking interface, but not make it functional. 
@@ -314,7 +314,7 @@ Collect the same data, after you updated the game.
 Compare the results
 </p>
 <p align="center">
-  <img src="results"> 
+  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Results.png"> 
 </p>
 
 Only change 1 variable at a time. This is to know exactly what improves the user experience. But because we may not have a lot of time to only do 1 change at a time, what you can do is change various variables on the same item, for example, change the color, size, sapes, label, etc. of the same button.
