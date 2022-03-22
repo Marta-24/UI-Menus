@@ -11,7 +11,7 @@ Without noticing, the players spend a lot of time in menus. Without realizing it
 Is the first thing a player sees when opening a game. Because of how often we see them, main menus have the tendency to get burned into our brains without us realizing it. The text and sound become too familiar.
 
 <p align="center">
-  <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_940x529/public/media/image/2019/08/apex-legends_6.jpg?h=07c25ede&itok=EcF-3sva"> 
+  <img src="https://images.hive.blog/p/B69zEhWZA8UCHxjagwibdXCLMYNxrPY6YRrJip9MJrz9Hs3UePfv2EUxqNdqsQhx5ToLvvGktcqQaba3snSAPBZVVDmjFkuHGVNUBNeq?format=match&mode=fit"> 
 </p>
 
 For example, it's easy to know which games are this, or at least a few of them, 
