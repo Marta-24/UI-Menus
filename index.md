@@ -29,7 +29,7 @@ You can make main menus as dynamic as you want. For example: COD black ops has a
 Or Detroit Become Human, where Chloe gets more agitated as the game moves forward. Every time you go to the main menu, there is a different interaction with Chloe, and that makes it very interesting, to want to see what she will say next, or see how her feelings toward you change throughout the game. And how at the end of the game she asks to be set free, and if you accept, she doesn’t appear anymore even if you start a new game.
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fchloe-detroit-become-human-video-game-android-gif-16217296&psig=AOvVaw2wovyJtxtZI0LiwKWFZkMs&ust=1648072677359000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDxtaXb2vYCFQAAAAAdAAAAABAS"> 
+  <img src="https://www.google.com/search?q=detroid+become+human+menu+gif&tbm=isch&ved=2ahUKEwiIxYqe29r2AhVkkFwKHYvuB28Q2-cCegQIABAA&oq=detroid+become+human+menu+gif&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJ1CfAVjyDmCNEmgAcAB4AIABT4gB8wKSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=VkY6YojCE-Sg8gKL3Z_4Bg&bih=929&biw=1920&rlz=1C1CHBF_esES979ES979#imgrc=hM__FyEk5xi85M"> 
 </p>
 
 # Character Menu
