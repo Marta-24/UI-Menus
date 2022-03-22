@@ -46,20 +46,20 @@ It's hard to make a character menu, since there is not a general template to sta
 For example, Street Fight 5 only uses less than half of the screen for the menu, the rest is the animation, so the player doesn’t have to drag the mouse through all the screen to see each character.
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/StreetFightMainMenu.webp"> 
+  <img src="https://www.fightersgeneration.com/nf/game/sfv-ae/sfv-arcade-edition-select-screen.jpg"> 
 </p>
 
 Valorant also uses this kind of interface, where most of the screen is for the animation. In this case, also using the extra space to show the different abilities of the characters.
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/ValorantCharacterMenu.jpg"> 
+  <img src="https://www.ginx.tv/uploads/NewFolder/valorant_agent_select_screen.jpg?ezimgfmt=rs:356x200/rscb7/ng:webp/ngcb7"> 
 </p>
 
 Smash Bros, on the other hand, utilizes most of the screen for the character. 
 This is a good interface for those games with a lot of characters. But the players takes a lot of time just looking through each character (if they don’t know which one to play).
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/SmashBrosCharacterSelection.webp"> 
+  <img src="https://static.wikia.nocookie.net/ssb/images/8/8a/Character_select_screen.png/revision/latest?cb=20181102010549"> 
 </p>
 
 # Pause Menu
@@ -74,7 +74,7 @@ This is a good interface for those games with a lot of characters. But the playe
 Some games have really boring menus, others are too much, like Fable 3, where the pause menu is a room (that you have to wait for it to load) with smaller rooms (that you also have to have for them to load) just to do anything. 
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Fable3Pause.webp"> 
+  <img src="http://4.bp.blogspot.com/-Ey7CeCxihyA/TiHJ963alZI/AAAAAAAAAtM/Xn3u9OinzrY/s1600/fable3sanctuary.jpg"> 
 </p>
 
 # Settings
@@ -101,20 +101,20 @@ It gives the player many options, very fast.
 Example: the backpack system in The Last of Us. It’s easy to use and gives you plenty of options, but also gives a layer of strategy, where the player has to plan which weapons will they use and which spot is the best for easier access
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/LastOfUsQuickMenu.webp"> 
+  <img src="https://dlprivateserver.com/wp-content/uploads/2020/06/Last-of-Us-2-Como-crear-objetos.jpeg"> 
 </p>
 
 A bad example is Zelda: Breath of the Wild.
 It takes too much time to get the items you want. Is not too bad, but for a quick menu, it doesn’t really work.
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/ZeldaQuickMenu.jpeg"> 
+  <img src="https://miro.medium.com/max/1400/1*GWxGTqRispD6XEzwWDUpTA.jpeg"> 
 </p>
 
 Another example is Zelda: Ocarina of Time, with the Iron Boots. During a part of the game, the player needed to navigate a dungeon with flooded corridors, and to sink to the bottom they needed to have equipped the Iron Boots. The problem came when equipping this item, since it was categorized as equipment, instead of an item like the bow, for example, so the player could not create a quick access to the boots, so the player would need to open the menu too equip the boots, and repeat the steps to take them off every single time, which made it really tedious to go through the dungeon.
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/ZeldaInventory.jpg"> 
+  <img src="https://n64today.com/wp-content/uploads/2018/11/legend-of-zelda-ocarina-of-time-n64-equipment-screen.jpg"> 
 </p>
 
 # Inventory
@@ -202,11 +202,11 @@ If everything looks and works in a similar manner, it will be easier for the pla
 You will be able to reuse designs and it will save time.
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/HadesControls.jpg"> 
+  <img src="https://interfaceingame.com/wp-content/uploads/hades/hades-controls.jpg"> 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/HadesSettings.jpeg"> 
+  <img src="https://dlprivateserver.com/wp-content/uploads/2020/09/Hades-God-Mode-como-empezar-que-hace.jpeg"> 
 </p>
 
 
@@ -297,10 +297,10 @@ It's hard to navigate through, with all the different submenus, but just with th
 
 The UI of this game is not good, but the UX is great.
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Persona5Menu.gif"> 
+  <img src="https://blog.sakugabooru.com/wp-content/uploads/2017/05/persona-5-menu-2.gif"> 
 </p>
 <p align="center">
-  <img src="https://github.com/Marta-24/UI-Menus/blob/main/Images/Persona5Animation.gif"> 
+  <img src="https://blog.sakugabooru.com/wp-content/uploads/2017/05/persona-5-menu.gif"> 
 </p>
 Use objective data
 It's easy to make a really good looking interface, but not make it functional. 
